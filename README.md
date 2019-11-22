@@ -1,4 +1,4 @@
-# first-demo
+#first-demo
 
 ## second heading
 
@@ -6,4 +6,6 @@
 
 
 
-**hello this is bols **
+**hello this is bold **
+
+*hello this is bold *

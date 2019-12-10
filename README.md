@@ -7,4 +7,4 @@ hello
 > mohsin
 >ali
 
-> search from google using following link  [goolge.com](www.google.com)
+> search from google using following link  [goolge.com](https://www.google.com/)

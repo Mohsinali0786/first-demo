@@ -11,9 +11,9 @@ hello
 
 # ***Muhammad Younus*** #
  - ### Muhammad Ali ###
-   []- Mohsin
-   []- Farzan
+   [] - Mohsin
+   [] - Farzan
  - ### Muhammad Ibrahim ###
-   [x]- Zubair
-   [x]- Shoaib
-   [x]- Talha
+   [x] - Zubair
+   [x] - Shoaib
+   [x] - Talha

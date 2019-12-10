@@ -6,5 +6,3 @@ _hello_
 hello
 
 > mohsin
-`heelo`
-```fawad```
